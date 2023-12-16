@@ -1,5 +1,6 @@
+<script>
+    import Formulario from "./components/Formulario.svelte";
+</script>
 <main>
-  <div class="text-3xl">
-    asdfasdjkfh asdf
-  </div>
+	<Formulario/>
 </main>
